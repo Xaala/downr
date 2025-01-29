@@ -1,0 +1,19 @@
+{
+  "name": "downr",
+  "version": "1.0.0",
+  "description": "Down detector bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Xaala/downr.git"
+  },
+  "author": "Xaala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xaala/downr/issues"
+  },
+  "homepage": "https://github.com/Xaala/downr#readme"
+}
